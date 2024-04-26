@@ -14,6 +14,8 @@ in på. Efter det ska man använda sig utav hashcat och bruteforcing där man an
 crypterad. Man ska sedan descrypta foldern så att man får tillgång till filena på insidan. Det som är i folder är en application. När man väl kommit in i foldern ska man alltså starta web applicationen och därefter leta efter svagheter i den. Svagheten som man kommer 
 hitta är att applicationen skickar in data till en sql databas men gör det på ett osäkert sätt. Man ska då använda sig utav sql injections för att få ut data ifrån databasen och i datan man får ut ligger också flaggan med formatet 210s{…}​.
 
+Nmap -> shh -> hydra -> hashcat -> cryptography -> web vulnerability analisys -> SQL injections
+
 ## Svårighetsgrad
 
 Svårighetes graden ligger på 1 alltså svår till nästan omöjlig. Detta är inte pågrund utav att uppgiften i sig är extremt svår utan mer att det är väldigt osannoligt att någon kommer att ha erfarenheten för att se vad nästa steg är och hur man läser steget med korrekt 
