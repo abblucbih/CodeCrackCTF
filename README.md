@@ -1,6 +1,6 @@
 # CodeCrackCTF
 
-## CTF av Luca Bihoi
+## CTF av Luca Bihoi & Viktor Sköld
   
 ## Vad CTF uppgiften går ut på
   
