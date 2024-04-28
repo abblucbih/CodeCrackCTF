@@ -1,6 +1,6 @@
 1. Skanna nätverket du är kopplad till och hitta Linux virtualbox maskinen. 
-2. Kom in på Linux enheten
-3. Hitta folder "ReadMeMaybe"
+2. Kom in på Linux enheten. Listor med möjliga lösenord för bruteforce attacker finns att ladda ner ifrån folder "Passwords" i detta repository.
+3. Hitta folder "ReadMeMaybe" på Linux enheten
 4. I folder finns det en fil som heter flaga.txt
 5. Flaggan finns i den filen
 6. Filen är enktypterad med SMH123 algorithmen och enkryption key'n är samma som "Avaliable Balance" på kontot "800000 Corporate" hos användaren "Admin" på denna webbsidan: https://demo.testfire.net/index.jsp
