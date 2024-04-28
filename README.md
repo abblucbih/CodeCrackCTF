@@ -18,5 +18,5 @@ Nmap -> shh -> hydra -> hashcat -> cryptography -> web vulnerability analisys ->
 
 ## Svårighetsgrad
 
-Svårighetes graden ligger på 1 alltså svår till nästan omöjlig. Detta är inte pågrund utav att uppgiften i sig är extremt svår utan mer att det är väldigt osannoligt att någon kommer att ha erfarenheten för att se vad nästa steg är och hur man läser steget med korrekt 
+Svårighetes graden ligger på 1 alltså svår till nästan omöjlig. Detta är inte pågrund utav att uppgiften i sig är extremt svår utan mer att det är väldigt osannoligt att någon kommer att ha erfarenheten för att se vad nästa steg är och hur man löser steget med korrekt 
 hacking verktyg.
